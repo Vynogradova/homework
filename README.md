@@ -1,2 +1,2 @@
 # Домашні завдання з Python для аналізу даних
-" Homework_8_1_Основи_Python_"Cинтаксис_Python_ipynb".ipynb Основи Python. Змінні. Типи данних.
+Homework_8_1_Основи_Python_"Cинтаксис_Python_ipynb".ipynb - Основи Python. Змінні. Типи данних.
