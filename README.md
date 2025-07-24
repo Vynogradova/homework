@@ -10,4 +10,5 @@ Homework_8_4_"_Функціїї_Основи_ipynb".ipynb - Функції. Ос
 Homework_8_4_"Функції_Продовження".ipynb - Функції. Продовження.
 Homework_8_5_"Класи_".ipynb - Класи.
 Homework_8_5_"Модулі_Винятки_".ipynb - Модулі. Винятки
+Homework_9_"Введення_у_Pandas_та_NumPy_ipynb".ipynb Домашнє завдання: Введення у Pandas та Numpy
 Homework_9_1_"Введення_у_Pandas_та_NumPy_ipynb".ipynb - Модуль 9. Робота з табличними даними: Pandas та Numpy. Введення у Pandas та Numpy.
