@@ -13,3 +13,4 @@ Homework_8_5_"Модулі_Винятки_".ipynb - Модулі. Винятки
 Homework_9_"Введення_у_Pandas_та_NumPy_ipynb".ipynb Домашнє завдання: Введення у Pandas та Numpy
 Homework_9_1_"Введення_у_Pandas_та_NumPy_ipynb".ipynb - Модуль 9. Робота з табличними даними: Pandas та Numpy. Введення у Pandas та Numpy.
 Homework_9_2_"Основи_роботи_з_даними_у_Pandas_ipynb".ipynb - Модуль 9. Основи роботи з даними у Pandas
+Homework_9_3_"_Розширені_методи_обробки_даних_у_Pandas_ipynb".ipynb - Модуль 9.  Розширені методи обробки даних у Pandas
