@@ -15,3 +15,4 @@ Homework_9_1_"Введення_у_Pandas_та_NumPy_ipynb".ipynb - Модуль 
 Homework_9_2_"Основи_роботи_з_даними_у_Pandas_ipynb".ipynb - Модуль 9. Основи роботи з даними у Pandas
 Homework_9_3_"_Розширені_методи_обробки_даних_у_Pandas_ipynb".ipynb - Модуль 9.  Розширені методи обробки даних у Pandas
 Homework_9_5_"apply,_groupby,_pivot_table_ipynb".ipynb - Модуль 9 apply, groupby, pivot_table
+Homework_10_"Візуалізація_даних_з_Pandas_ipynb".ipynb - Модуль 10 Візуалізація даних з Pandas
