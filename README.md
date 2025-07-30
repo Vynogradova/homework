@@ -1,6 +1,7 @@
 # Домашні завдання з Python для аналізу даних
 Homework_10_"Візуалізація_даних_з_Matplotlib_ipynb".ipynb - Модуль 10 Візуалізація даних з Matplotlib
 Homework_10_"Візуалізація_даних_з_Pandas_ipynb".ipynb - Модуль 10 Візуалізація даних з Pandas
+Homework_10_"Статистичні_візуалізації_з_Seaborn_ipynb".ipynb Модуль 10 Статистичні візуалізації з Seaborn
 Homework_8_1_Основи_Python_"Cинтаксис_Python_ipynb".ipynb - Основи Python. Змінні. Типи данних.
 Homework_8_1_"Основи_роботи_з_рядками_та_математичні_операції_ipynb".ipynb - Операції над даними
 Homework_8_2_"_If_else_ipynb".ipynb - Control Flow
